@@ -1,0 +1,8 @@
+.top
+{
+    position: fixed; background: white; width: 100%; top: 0; height: 30px;
+}
+.thing
+{
+    margin-top: 30px;
+}
